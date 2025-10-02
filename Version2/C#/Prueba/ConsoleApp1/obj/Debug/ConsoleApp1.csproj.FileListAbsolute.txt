@@ -1,0 +1,11 @@
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\bin\Debug\Prueba.dll
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\bin\Debug\Prueba.pdb
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\igres\Desktop\C#\Prueba\ConsoleApp1\bin\Debug\Datos\datos_asterix_radar.ast
