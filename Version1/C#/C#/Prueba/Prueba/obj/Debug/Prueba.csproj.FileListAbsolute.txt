@@ -1,0 +1,6 @@
+C:\Users\igres\Desktop\C#\Prueba\Prueba\bin\Debug\Prueba.dll
+C:\Users\igres\Desktop\C#\Prueba\Prueba\bin\Debug\Prueba.pdb
+C:\Users\igres\Desktop\C#\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+C:\Users\igres\Desktop\C#\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\igres\Desktop\C#\Prueba\Prueba\obj\Debug\Prueba.dll
+C:\Users\igres\Desktop\C#\Prueba\Prueba\obj\Debug\Prueba.pdb
